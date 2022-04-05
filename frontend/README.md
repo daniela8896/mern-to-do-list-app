@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Proyecto consultorio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>To do list</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p><em> Educamás -> <a href="https://educamas.com.co/">Programate</a> Cohorte IV REEDOM DEVELOPER. 💻 </br>
+</em></p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Desarrollar una aplicación "CRUD" Web, con merc stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<p>🏆 Trabajado por Daniela puerta castrillon</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="./img/Designer _Flatline.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-### `npm run build`
+<h2>Contexto del proyecto</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Nos encontramos en una empresa de desarrollo y necesitamos una aplicación que permita pedir cita al CTO para resolver problemas técnicos de los equipos de desarrollo.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚙️ Requerimientos técnicos ⚙️
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🍩 La aplicación constará de al menos 3 páginas
 
-### `npm run eject`
+Lista: Las citas beben aparecer por orden de creación con:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🍩 El nombre del coder o del equipo.
+🍩 El tema de consulta
+🍩 Fecha y hora de la creación de la cita
+🍩 Las citas se podrán eliminar.
+🍩 Podremos acceder a la edición de cada cita, y a la página de creación de una cita nueva.
+🍩 Crear nueva cita:
+🍩 Formulario con los campos necesarios obligatorios
+🍩 Botón para borrar los campos
+🍩 Botón para cancelar y volver a la lista principal
+🍩 Botón para enviar la información
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Editar cita:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🍩 Formulario con los campos necesarios obligatorios.
+🍩 Los campos deben tener la información de la cita a editar
+🍩 Boton cancelar, Botón de enviar
+🍩 La aplicación deberá ser responsiva.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h2>🛠 Tech Stack</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 🌐 &nbsp; HTML5 | CSS3 | Bootstrap | php |
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<img src="./img/capturacrud1.jpg">
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img src="./img/capturacrud2.jpg">
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<img src="./img/capturacrud3.jpg">
 
-### Deployment
+<img src="./img/capturacrud4.jpg">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img src="./img/capturacrud5.jpg">
 
-### `npm run build` fails to minify
+<img src="./img/capturacrud6.jpg">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+

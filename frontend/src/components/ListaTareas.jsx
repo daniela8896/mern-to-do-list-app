@@ -23,7 +23,7 @@ const getTareas = async()=>{
       <div className="row">
         {lista.map((list) => (
           <div className="col-md-4 p-2" key={list._id}>
-            <div className="card">
+            <div className="card bg-secondary">
               <div className="card-header">
                 <h5>Tarea: {list.nombre}</h5>
               </div>
